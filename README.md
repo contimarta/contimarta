@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-My name is Marta, and I'm starting my journey into tech! During my Physics degree I discovered my passion for coding, and after a few years in academic Philosophy, I realised that my enthusiasm for creative problem solving and my talent to handle complexity align perfectly with a software engineering career. This led me to enrol in the Digital Futures Academy, where I’m improving my skills both in Front-End and Back-End development. 
+My name is Marta, and I'm starting my journey into tech! During my Physics degree I discovered my passion for coding, and after a few years in academic Philosophy, I realised that my enthusiasm for creative problem solving and my talent to handle complexity align perfectly with a software engineering career.
 
-My focus now is to work on exciting projects that contribute to the tech community and continue to grow as a developer.
+My focus now is to work on exciting projects and continue to grow as a developer.
 
 Here you can find some of my personal projects.
 
