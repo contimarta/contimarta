@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-My name is Marta, and I'm starting my journey into tech! During my Physics degree I discovered my passion for coding, and after a few years in academic Philosophy, I realised that my enthusiasm for creative problem solving and my talent to handle complexity align perfectly with a software engineering career.
+My name is Marta, and I'm pursuing a career in software engineering. During my Physics degree I discovered my passion for coding, and after a few years in academic Philosophy, I realised that my enthusiasm for creative problem solving and my talent to handle complexity align perfectly with a software engineering career.
 
-My focus now is to work on exciting projects and continue to grow as a developer.
+My focus now is to work on exciting projects and continue to grow as a developer. I'm currently developing both my front end and back end skills, working in several personal projects using React, JS, Express, MongoDB, and Java.
 
 Here you can find some of my personal projects.
+
+In my spare time I like to grow vegetables in my allotment 🌱, cook meals from scratch 🥘, and going to the cinema 🎥. I also enjoy running 🏃🏻‍♀️, playing tennis 🎾 and football⚽️!
 
 ## Projects
 
