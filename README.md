@@ -24,7 +24,7 @@ Here you can find some of my personal projects.
 
 ## Projects
 
-- [The Guardian News App](https://github.com/contimarta/news-challenge) - Digital Futures challenge where I built a React App that uses The Guardian API to retrieve the latest news and display them.
+- [The Guardian News App](https://github.com/contimarta/news-challenge) - Personal project where I built a React App that uses The Guardian API to retrieve the latest news and display them.
 - [Kitchen Utensils Boutique](https://github.com/contimarta/boutique) - Pair-Programming project where we built a shop's website using React and a JSON mock server to store the data.
 
 
