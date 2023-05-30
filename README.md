@@ -28,7 +28,7 @@ In my spare time I like to grow vegetables in my allotment 🌱, cook meals from
 
 - [My Twitter Clone](https://github.com/contimarta/Twitter-clone) - Full stack project: Twitter App clone using the MERN (MongoDB, Express, React, Node)  stack and JWT for authentication. Deployed with Render and Netlify [here](https://glittering-starship-2d6852.netlify.app/) (please be patient as it may take a few minutes to show tweets).
 - [User Management System](https://github.com/contimarta/UserManagementSystem_App) - Full Stack project: I have built a Fictional User Management System using Golang in the backend and React & Bootstrap in the frontend. The system allows managers to register and log in and uses JWT to authenticate API calls.
-- [My Starling Bank App](https://github.com/contimarta/starling-bank-app) - In this project I created a Starling Bank App using Starling Bank's API and sandbox. The frontend uses React, and I also built an Express Server to avoid CORS errors.
+- [My Starling Bank App](https://github.com/contimarta/starling-bank-app) - In this project I created a Starling Bank App using Starling Bank's API and sandbox. The frontend uses React, and I also built a Middleware Express Server to allow CORS.
 - [The Guardian News App](https://github.com/contimarta/news-challenge) - Personal project where I built a React App that uses The Guardian API to retrieve the latest news and display them.
 
 
