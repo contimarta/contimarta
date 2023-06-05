@@ -30,7 +30,8 @@ Here, you can explore three personal projects I've recently completed:
 - [User Management System](https://github.com/contimarta/UserManagementSystem_App) - Full Stack project: I have built a Fictional User Management System using Golang in the backend and React & Bootstrap in the frontend. The system allows managers to register and log in and uses JWT to authenticate API calls. The system stores information about users, including a pdf simulating a contract, and allows managers to edit user information, upload and download contracts, create new users, and delete users.
 - [My Starling Bank App](https://github.com/contimarta/starling-bank-app) - In this project I created a Starling Bank App using Starling Bank's API and sandbox. The frontend uses React, and I also built a Middleware Express Server to allow CORS. To use it you need a sandbox account. The app allows users to: create a new savings goal, add money to savings goals, check their bank statement, and check their savings goals and how close they are to their target.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=contimarta&theme=tokyonight" alt="mystreak"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=contimarta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 ## Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marta-conti-lorenzo/).
