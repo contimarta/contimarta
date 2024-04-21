@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-My name is Marta, and I'm pursuing a career in software engineering. During my Physics degree I discovered my passion for coding, and after a few years in academic Philosophy, I realised that my enthusiasm for creative problem solving and my talent to handle complexity align perfectly with a software engineering career.
+Hey! My name is Marta, and I'm currently a full-stack software engineer at Urban Jungle Insurance. During my Physics degree I discovered my passion for coding, and after a few years in academic Philosophy, I realised that my enthusiasm for creative problem solving and my talent to handle complexity align perfectly with a software engineering career.
 
 My focus now is to work on exciting projects and continue to grow as a developer. I'm currently developing both my front end and back end skills, working in several personal projects using React, JavaScript, Golang, Java, Express, NodeJS, and MongoDB.
 
